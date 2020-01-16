@@ -8,7 +8,7 @@ export default () => {
     <div id="footer">
       <div className="footer-row">
         <div className="social-icon">
-          <a href="https://github.com/josh-feinstein/responsive-checkout" target="_blank" rel="noopener noreferrer"><img src="/images/github.svg" alt="github logo" width="20px" /></a>
+          <a href="https://github.com/public-account/responsive-checkout" target="_blank" rel="noopener noreferrer"><img src="/images/github.svg" alt="github logo" width="20px" /></a>
         </div>
       </div>
       <div className="footer-row">

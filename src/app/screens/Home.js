@@ -19,7 +19,7 @@ export default () => {
       </div>
       <hr />
       <h3>Please Note Limitations</h3>
-      <h4>This is a tech demo that was to be completed in ~2 hours. As such, this app has some limitations.<br />They include, but are not limited to the following:</h4>
+      <h4>This application is solely a tech demonstration. As such, this app has some limitations.<br />They include, but are not limited to the following:</h4>
       <ul>
         <li>The Cart does not persist on refresh.</li>
         <li>None of the form fields are required. We can assume they would be required and validated in production.</li>

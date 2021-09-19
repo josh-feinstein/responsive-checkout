@@ -11,7 +11,7 @@ http://responsive-checkout.herokuapp.com/
 * CSS
 
 #### Please Note Limitations
-##### This is a solely a tech demonstration. As such, this app has some limitations.<br />They include, but are not limited to the following:
+##### This application is solely a tech demonstration. As such, this app has some limitations.<br />They include, but are not limited to the following:
 
 * The Cart does not persist on refresh.
 * None of the form fields are required. We can assume they would be required and validated in production.
